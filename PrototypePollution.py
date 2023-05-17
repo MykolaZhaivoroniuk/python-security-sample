@@ -1,0 +1,1 @@
+# This is a security vulnerability that can affect web applications built in JavaScript because JavaScript is prototype-based. Python is not prototype-based.
